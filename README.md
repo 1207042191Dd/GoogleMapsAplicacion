@@ -32,7 +32,7 @@ Aplicación móvil Android que integra Google Maps con una API de Lugares Turís
 ### Control de Visualización
 
 #### Radio Mínimo (Zoom Máximo)
-![Zoom Máximo]!(https://github.com/user-attachments/assets/30985bc8-1e4d-4cb4-b07b-e4110bbaf854)
+![Zoom Máximo](https://github.com/user-attachments/assets/30985bc8-1e4d-4cb4-b07b-e4110bbaf854)
 
 > Visualización detallada con radio de búsqueda reducido (1km).
 
